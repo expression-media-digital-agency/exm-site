@@ -6,7 +6,7 @@ const NavBar = () => (
     <nav className="navbar navbar-expand-lg fixed-top animated fadeInDown delay-1s">
     <div className="container">
       <Link href="/">
-        <a className="navbar-brand animated fadeInLeft delay-1s" href="#"><img className="logo img-fluid" src="/static/img/svg/EXM Pry Logo.svg"/></a>
+        <a className="navbar-brand animated fadeInLeft delay-1s" href="#"><img className="logo img-fluid" src="/static/img/svg/New Pry Logo blue.png"/></a>
       </Link>
       
       <button className="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
