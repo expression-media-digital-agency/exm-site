@@ -56,7 +56,7 @@ const Footer = () =>  (
                     </div>
                     <div className="row">
                         <div className="col-sm-12 text-center copyright">
-                            <p className="footer-text ">Copyright 2021 (c) Expression Media Digital Agency</p>
+                            <p className="footer-text ">Copyright 2021 (c) Expression Media Creatives</p>
                         </div>
                     </div>
                 </div>
