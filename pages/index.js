@@ -7,7 +7,7 @@ import 'normalize.css'
 
 const Index = () => <Layout>
 <Head>
-    <title>ExMedia Digital | Best of Digital Marketing</title>
+    <title>ExMedia Creatives | MarTech at its Best</title>
     <meta name="facebook-domain-verification" content="1hwsc7wgie2zrcgqpb0ycvu2g4uxcb" />
     <meta name="viewport" content="initial-scale=1.0, width=device-width" key="viewport"/>
         <meta name="google-site-verification" content="kmbrx57bxpG7mnv9qSUcjLAbULlGQwDRthw8Zid_gyY" />
@@ -26,11 +26,11 @@ const Index = () => <Layout>
        <div className="row">
         <div className="col-sm-12 col-lg-7">
             <h1 className="header-one animated fadeIn delay-1s">
-            Grow Your Startup Revenue with ExMedia Digital.
+            Grow With Us.
             
             </h1>
  
-            <p className="small-text animated fadeIn delay-2s">Multiply Sales Online with Data-Driven Marketing</p>
+            <p className="small-text animated fadeIn delay-2s">Let us Build and Manage Your Marketing Team to achieve Your Goals.</p>
 
 
             <Link href="/contact">
@@ -57,7 +57,7 @@ const Index = () => <Layout>
                     <img src="/static/img/svg/brand.svg" className="card-img-top" alt="branding picture"/>
                     <div className="card-body">
                         <h3 className="card-title">Startups</h3>
-                        <p className="card-text">We are a highly dedicated and specialized team of digital marketers who focus on growing the revenue of Startups. We understand your startup and know how best to market your products and services.</p></div>
+                        <p className="card-text">Our is vision is to make Startups swiftly and increasingly profitable through Marketing Technology. We will build you a Team that knows how best to market your products and services to achieve your financial goals.</p></div>
                 </div>
                 <div className="card hvr-grow">
                     <img src="/static/img/svg/marketing1.svg" className="card-img-top" alt="..."/>
@@ -70,7 +70,7 @@ const Index = () => <Layout>
                     <img src="/static/img/svg/softdev1.svg" className="card-img-top" alt="..."/>
                     <div className="card-body">
                         <h3 className="card-title">Data-Driven</h3>
-                        <p className="card-text">Our work is data-inspired, and we make the most of metrics in growing your startup revenue.</p>
+                        <p className="card-text">Our work is data-inspired, market-research based, and we make the most of metrics in growing your startup revenue.</p>
                     </div>
                 </div>
             </div>
@@ -103,7 +103,7 @@ const Index = () => <Layout>
             <div className="col-sm-4 text-center">
                 <img src="/static/img/svg/analysis 1.svg" className="img-fluid"/>
                 <p className="paragraph-one">
-                Social Media Audit
+                Digital Marketing Audit
                 </p>
             </div>
 
@@ -112,13 +112,13 @@ const Index = () => <Layout>
             <div className="col-sm-4 text-center">
                 <img src="/static/img/svg/Web development 1.svg" className="img-fluid"/>
                 <p className="paragraph-one">
-                Display Advertising
+                Digital Marketing Strategy
                 </p>
             </div>
             <div className="col-sm-4 text-center">
                 <img src="/static/img/svg/contentM.svg"  className="img-fluid"/>
                 <p className="paragraph-one">
-                Digital Marketing Strategy
+                Product Market Research
                 </p>
             </div>
             <div className="col-sm-4 text-center">
