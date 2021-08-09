@@ -7,7 +7,7 @@ import 'normalize.css'
 
 const Index = () => <Layout>
 <Head>
-    <title>ExMedia Creatives | MarTech at its Best</title>
+    <title>ExMedia Creatives | Best of MarTech</title>
     <meta name="facebook-domain-verification" content="1hwsc7wgie2zrcgqpb0ycvu2g4uxcb" />
     <meta name="viewport" content="initial-scale=1.0, width=device-width" key="viewport"/>
         <meta name="google-site-verification" content="kmbrx57bxpG7mnv9qSUcjLAbULlGQwDRthw8Zid_gyY" />
@@ -30,7 +30,7 @@ const Index = () => <Layout>
             
             </h1>
  
-            <p className="small-text animated fadeIn delay-2s">Let us Build and Manage Your Marketing Team to achieve Your Goals.</p>
+            <p className="small-text animated fadeIn delay-2s">Let us Build You a Marketing Team to achieve Your Startup Goals.</p>
 
 
             <Link href="/contact">
