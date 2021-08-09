@@ -12,7 +12,7 @@ const Index = () => <Layout>
     <meta name="viewport" content="initial-scale=1.0, width=device-width" key="viewport"/>
         <meta name="google-site-verification" content="kmbrx57bxpG7mnv9qSUcjLAbULlGQwDRthw8Zid_gyY" />
             <meta name="description" content="Digital Marketing for Startups" />
-            <meta name="keywords" content="social media marketing, startup marketing, grow your startup, startup revenue,social media, marketing, digital, SEO, increase profit, top marketing firm, best agency, revenue " />
+            <meta name="keywords" content="social media marketing, marketing technology, best of marketing, startup marketing, grow your startup, startup revenue,social media, marketing, digital, SEO, increase profit, top marketing firm, best agency, revenue " />
             <meta name="author" content="Expression Media" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossOrigin="anonymous"></link>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossOrigin="anonymous"></link>
@@ -57,7 +57,7 @@ const Index = () => <Layout>
                     <img src="/static/img/svg/brand.svg" className="card-img-top" alt="branding picture"/>
                     <div className="card-body">
                         <h3 className="card-title">Startups</h3>
-                        <p className="card-text">Our is vision is to make Startups swiftly and increasingly profitable through Marketing Technology. We will build you a Team that knows how best to market your products and services to achieve your financial goals.</p></div>
+                        <p className="card-text">Our Vision is to make Startups swiftly and increasingly profitable through Marketing Technology. We will build you a Team that knows how best to market your products and services to achieve your financial goals.</p></div>
                 </div>
                 <div className="card hvr-grow">
                     <img src="/static/img/svg/marketing1.svg" className="card-img-top" alt="..."/>
