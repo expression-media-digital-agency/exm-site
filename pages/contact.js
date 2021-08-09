@@ -6,7 +6,7 @@ import ContactForm from "../components/ContactForm/ContactForm";
 
 const Academy = () => <Layout>
 <Head>
-    <title>ExMedia Creatives | MarTech at its Best</title>
+    <title>ExMedia Creatives |Best of MarTech</title>
     <meta name="facebook-domain-verification" content="1hwsc7wgie2zrcgqpb0ycvu2g4uxcb" />
     <meta name="viewport" content="initial-scale=1.0, width=device-width" key="viewport"/>
         <meta name="google-site-verification" content="kmbrx57bxpG7mnv9qSUcjLAbULlGQwDRthw8Zid_gyY" />
