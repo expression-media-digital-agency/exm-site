@@ -62,8 +62,8 @@ const Index = () => <Layout>
                 <div className="card hvr-grow">
                     <img src="/static/img/svg/marketing1.svg" className="card-img-top" alt="..."/>
                     <div className="card-body">
-                        <h3 className="card-title">Traditional</h3>
-                        <p className="card-text">We have a thorough understanding of traditional marketing across serveral cultures and regions. This makes us to have a mastery of the use of digital skills to achieve exponential results.</p>
+                        <h3 className="card-title">Cost-Effective</h3>
+                        <p className="card-text">Make the most of your Marketing Budget with us, by achieving More with Far Less. Our Model enables us to build you a Full Marketing Team at the cost of One Employee.</p>
                     </div>
                 </div>
                 <div className="card hvr-grow">
