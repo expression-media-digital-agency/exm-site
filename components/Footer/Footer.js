@@ -35,7 +35,7 @@ const Footer = () =>  (
                                 exmdigitalagency@gmail.com
                             </li>
                                  <li className="footer-text">
-                                +(234)8169732091
+                                +(234)9022970934
                             </li>
                             <li className="footer-text">
                                 
