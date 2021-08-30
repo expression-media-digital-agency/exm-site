@@ -30,10 +30,10 @@ const About = () => <Layout>
                
             </h3>
             <h1 className="heading-one animated fadeIn delay-2s">
-                Get to Know Us
+                Our mission is to Increase the Startup Success rate Globally.
             </h1>
            <p className="paragraph-one animated fadeIn delay-3s">
-                Your Startup Growth becomes Our Story
+                Your Startup Success becomes Our Story
            </p>
         </div>
 
@@ -53,7 +53,7 @@ const About = () => <Layout>
             <div className="col-sm-1"></div>
             <div className="col-sm-5">
                 <p className="paragraph-one">
-                    Our vision is to make Startups Swiftly and Increasingly Profitable through Marketing Technology.<br/><br/>
+                    Our vision is to increase the Startup Success rate Globally.<br/><br/>
                 
                     Our commitment is to help startups overcome the challenge of getting adequate sales for their products and services.
                 </p>
