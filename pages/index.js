@@ -83,7 +83,7 @@ const Index = () => <Layout>
         <div className="row">
             <div className="col-sm-12">
                 <h2 className="heading-two text-center">
-                    What we offer
+                    What The Team will do.
                 </h2>
             </div>
         </div>
@@ -112,7 +112,7 @@ const Index = () => <Layout>
             <div className="col-sm-4 text-center">
                 <img src="/static/img/svg/Web development 1.svg" className="img-fluid"/>
                 <p className="paragraph-one">
-                Digital Marketing Strategy
+                Digital Marketing & Sales Strategy
                 </p>
             </div>
             <div className="col-sm-4 text-center">
