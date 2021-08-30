@@ -56,21 +56,21 @@ const Index = () => <Layout>
                 <div className="card hvr-grow">
                     <img src="/static/img/svg/brand.svg" className="card-img-top" alt="branding picture"/>
                     <div className="card-body">
-                        <h3 className="card-title">Startups</h3>
-                        <p className="card-text">Our Vision is to make Startups swiftly and increasingly profitable through Marketing Technology. We will build you a Team that knows how best to market your products and services to achieve your financial goals.</p></div>
+                        <h3 className="card-title">Spend Less</h3>
+                        <p className="card-text">Cut down personnel management cost and overhead by 5x. Exmedia team hires, manages your marketing & Sales team.</p></div>
                 </div>
                 <div className="card hvr-grow">
                     <img src="/static/img/svg/marketing1.svg" className="card-img-top" alt="..."/>
                     <div className="card-body">
-                        <h3 className="card-title">Cost-Effective</h3>
-                        <p className="card-text">Make the most of your Marketing Budget with us, by achieving More with Far Less. Our Model enables us to build you a Full Marketing Team at the cost of One Employee.</p>
+                        <h3 className="card-title">Ready to Work</h3>
+                        <p className="card-text">Tap into our Creatives Community spanning multiple regions, with proven track record of sales and results with marketing.</p>
                     </div>
                 </div>
                 <div className="card hvr-grow">
                     <img src="/static/img/svg/softdev1.svg" className="card-img-top" alt="..."/>
                     <div className="card-body">
-                        <h3 className="card-title">Data-Driven</h3>
-                        <p className="card-text">Our work is data-inspired, market-research based, and we make the most of metrics in growing your startup revenue.</p>
+                        <h3 className="card-title">Continous Mangement</h3>
+                        <p className="card-text">We carefully curate the team based on your Startup Vison, Goals, and Needs. We continue to support the team, even as they serve your Startup.</p>
                     </div>
                 </div>
             </div>
