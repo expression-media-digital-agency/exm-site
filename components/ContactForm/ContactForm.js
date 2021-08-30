@@ -11,7 +11,7 @@ const ContactForm = () => (
 
                             {/* <p className="paragraph"><img className="img-fluid pr-3" src="/static/img/svg/location.svg"/> Gibson House, No 12 Flatten building, Ile Ife.</p> */}
                             <p className="paragraph"><img className="img-fluid pr-3" src="/static/img/svg/message.svg"/> exmdigitalagency@gmail.com</p>
-                            <p className="paragraph"><img className="img-fluid pr-3" src="/static/img/svg/whatsapp.svg"/> +(234)8169732091</p>
+                            <p className="paragraph"><img className="img-fluid pr-3" src="/static/img/svg/whatsapp.svg"/> +(234)9022970934</p>
 
                             <h2 className="heading-two">
                                 We are actively social
@@ -19,8 +19,8 @@ const ContactForm = () => (
                             
                             <li className="icons">
                                 <span> <a href="https://www.facebook.com/exmediadigital/" target="_blank"><img className="img-fluid" src="/static/img/svg/facebook.svg" alt="facebookicon"/></a></span>
-                                <span> <a href="https://www.instagram.com/exmediadigital/" target="_blank"><img className="img-fluid" src="/static/img/png/instagramwhite.png" alt="instagramicon"/></a></span>
-                                <span> <a href="https://twitter.com/exmediadigital" target="_blank"><img className="img-fluid" src="/static/img/svg/twitter.svg" alt="twittericon" /></a></span>
+                                <span> <a href="https://www.instagram.com/exmediacreatives/" target="_blank"><img className="img-fluid" src="/static/img/png/instagramwhite.png" alt="instagramicon"/></a></span>
+                                <span> <a href="https://twitter.com/exmediacreatives" target="_blank"><img className="img-fluid" src="/static/img/svg/twitter.svg" alt="twittericon" /></a></span>
                             </li>
                         </div>
                         <div className="col-sm-12 col-md-12 col-lg-7 form-right-side">
