@@ -26,7 +26,7 @@ const Index = () => <Layout>
        <div className="row">
         <div className="col-sm-12 col-lg-7">
             <h1 className="header-one animated fadeIn delay-1s">
-            Build a Profitable Startup with A World-Class Marketing & Sales Team.
+            Build a Profitable Startup with A Result-Driven Marketing & Sales Team.
             
             </h1>
  
